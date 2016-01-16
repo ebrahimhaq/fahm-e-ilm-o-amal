@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fahm e Ilm o Amal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_jummah_bayan">Jummah Bayans</string>
+    <string name="title_activity_darse_quran">Dars e Quran</string>
+    <string name="title_activity_darse_hadees">Dars e Hadees</string>
+    <string name="title_activity_list_populate">ListPopulateActivity</string>
+    <string name="title_activity_menu">Fahm e Ilm o Amal - Bayans</string>
+    <string name="title_activity_ramzan_special">RamzanSpecialActivity</string>
+    <string name="title_activity_hajj">HajjActivity</string>
+
+</resources>
